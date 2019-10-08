@@ -1,4 +1,9 @@
 # E06b-Tiles
+# Description
+# In this assignment we praticed how to create a 2D game with the Tiled Map Editor.
+# In Tiled Map Editor, we can create layers and put tiles on it. 
+# Also, we can import external tiles into the application to create more interesting map.
+
 Playing with the Tiled Map Editor
 
 This is an opportunity for you to experiment with using the Tiled Map Editor to build a 2D platformer.
